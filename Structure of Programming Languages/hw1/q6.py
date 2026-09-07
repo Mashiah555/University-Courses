@@ -1,5 +1,5 @@
-# Yuval Mashiah | 329245161
-# Programming Languages Structure 
+# Yuval Mashiah
+# Structure of Programming Languages
 # HW Assignment 1 Challenge Question 6
 
 def add_3_dicts(d1, d2, d3):

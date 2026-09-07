@@ -1,3 +1,7 @@
+# Yuval Mashiah
+# Structure of Programming Languages
+# HW Assignment 2 Question 5
+
 import math
 from functools import reduce
 

@@ -1,5 +1,5 @@
-# Yuval Mashiah | 329245161
-# Programming Languages Structure
+# Yuval Mashiah
+# Structure of Programming Languages
 # HW Assignment 1 Question 1
 
 def get_penta_num(n):

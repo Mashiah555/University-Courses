@@ -1,3 +1,7 @@
+# Yuval Mashiah
+# Structure of Programming Languages
+# HW Assignment 2 Question 6
+
 def task_manager():
     """
     Creates a task manager closure that encapsulates a dictionary of tasks.

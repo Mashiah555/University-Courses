@@ -1,3 +1,7 @@
+# Yuval Mashiah
+# Structure of Programming Languages
+# HW Assignment 2 Question 7
+
 # --- Part A: Pure Text Processing Functions ---
 
 def clean_spaces(text: str) -> str:

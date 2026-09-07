@@ -1,3 +1,7 @@
+# Yuval Mashiah
+# Structure of Programming Languages
+# HW Assignment 2 Question 4
+
 from datetime import datetime, timedelta
 
 def get_gregorian_dates(start_date_str: str, num_dates: int, skip_days: int) -> list:

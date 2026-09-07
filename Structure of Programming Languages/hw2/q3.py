@@ -1,3 +1,7 @@
+# Yuval Mashiah
+# Structure of Programming Languages
+# HW Assignment 2 Question 3
+
 from functools import reduce
 
 def is_armstrong(n: int) -> bool:
