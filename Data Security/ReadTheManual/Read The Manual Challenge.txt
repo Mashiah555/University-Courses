@@ -1,0 +1,1 @@
+You've found a robot which is locked and you don't know the unlock passcode. The robot belongs to a genius (but crazy) scientist who has written down the emergency repair key in this paper. You need to find this emergency repair key in order to put the robot into autoboot mode, but the paper appears to be ciphered using a Caesar cipher.

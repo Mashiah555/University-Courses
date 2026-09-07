@@ -1,0 +1,1 @@
+Here goes your secret. It is encrypted with aes-128-cbc. The key and IV are first 16 bytes of some standard digest of this file. But which digest? Who knows, but it is certainly a standard one! Don't forget -nopad if you use openssl!

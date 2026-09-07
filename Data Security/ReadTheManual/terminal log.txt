@@ -1,0 +1,63 @@
+Enter a snippet of the ciphertext to decrypt: Jrdlvc Tyftife reu Dfjyv Birmtyzb
+Possible Caesar cipher decryptions (unknown offset):
+
+Shift of  0:
+jrdlvc tyftife reu dfjyv birmtyzb
+Shift of  1:
+iqckub sxeshed qdt ceixu ahqlsxya
+Shift of  2:
+hpbjta rwdrgdc pcs bdhwt zgpkrwxz
+Shift of  3:
+goaisz qvcqfcb obr acgvs yfojqvwy
+Shift of  4:
+fnzhry pubpeba naq zbfur xenipuvx
+Shift of  5:
+emygqx otaodaz mzp yaetq wdmhotuw
+Shift of  6:
+dlxfpw nsznczy lyo xzdsp vclgnstv
+Shift of  7:
+ckweov mrymbyx kxn wycro ubkfmrsu
+Shift of  8:
+bjvdnu lqxlaxw jwm vxbqn tajelqrt
+Shift of  9:
+aiucmt kpwkzwv ivl uwapm szidkpqs
+Shift of 10:
+zhtbls jovjyvu huk tvzol ryhcjopr
+Shift of 11:
+ygsakr inuixut gtj suynk qxgbinoq
+Shift of 12:
+xfrzjq hmthwts fsi rtxmj pwfahmnp
+Shift of 13:
+weqyip glsgvsr erh qswli ovezglmo
+Shift of 14:
+vdpxho fkrfurq dqg prvkh nudyfkln
+Shift of 15:
+ucowgn ejqetqp cpf oqujg mtcxejkm
+Shift of 16:
+tbnvfm dipdspo boe nptif lsbwdijl
+Shift of 17:
+samuel chocron and moshe kravchik
+Shift of 18:
+rzltdk bgnbqnm zmc lnrgd jqzubghj
+Shift of 19:
+qykscj afmapml ylb kmqfc ipytafgi
+Shift of 20:
+pxjrbi zelzolk xka jlpeb hoxszefh
+Shift of 21:
+owiqah ydkynkj wjz ikoda gnwrydeg
+Shift of 22:
+nvhpzg xcjxmji viy hjncz fmvqxcdf
+Shift of 23:
+mugoyf wbiwlih uhx gimby elupwbce
+Shift of 24:
+ltfnxe vahvkhg tgw fhlax dktovabd
+Shift of 25:
+ksemwd uzgujgf sfv egkzw cjsnuzac
+
+To find the correct decryption, look for the most readable and meaningful text.
+
+
+Enter the correct shift number (0-25): 17
+Enter absolute path to the ciphered .txt file: C:\Users\Mashiah\OneDrive - Jerusalem College of Technology - Machon Lev\Documents\תואר ראשון\שנה ב\אבטחת מידע\תשפו 
+- חוזר\תרגיל הגשה 2\ReadTheManual_paper.txt  
+Decrypted text saved to: C:\Users\Mashiah\OneDrive - Jerusalem College of Technology - Machon Lev\Documents\תואר ראשון\שנה ב\אבטחת מידע\תשפו - חוזר\תרגיל הגשה 2\deciphered_output.txt

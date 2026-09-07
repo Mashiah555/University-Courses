@@ -1,0 +1,1 @@
+Someone or something stuck a random flyer on your space ship. You need to find the secret key (in UPPER case letters) in order to continue but it appears to be ciphered using a substitution cipher.

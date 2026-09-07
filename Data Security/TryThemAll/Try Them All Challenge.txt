@@ -1,0 +1,1 @@
+You have found a passwd file containing salted passwords. An unprotected configuration file has revealed a salt of 7729. The hashed password for the 'admin' user appears to be cbd7163c8dc7d19ed3bcb155dd75d7bd, try to brute force this password.
