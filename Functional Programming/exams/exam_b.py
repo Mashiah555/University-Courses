@@ -18,19 +18,22 @@ articles = [
 ]
 
 def get_articles_by_researcher(name):
-    return list(map(lambda x: x[0], filter(lambda x: name in x[1], articles)))
+    return list(map(lambda paper: paper[0], filter(lambda paper: name in paper[1], articles)))
 
 def unqualified_articles(name, article_list, acc = 0):
     if not article_list or name not in researcher:
         return acc
-    if article_list[0][0] in get_articles_by_researcher(name):
+    if article_list[0][0] in get_articles_by_researcher(name) and article_list[0][2] not in researcher[name]:
         return unqualified_articles(name, article_list[1:], acc + 1)
     return unqualified_articles(name, article_list[1:], acc)
 
+def print_unqualified():
+    print([r for r in researcher if unqualified_articles(r, articles) > 0])
 
+# Run Examples:
 print(get_articles_by_researcher('dr_cohen'))
 
 print(unqualified_articles('dr_cohen', articles))
 print(unqualified_articles('prof_levi', articles))
 
-print([r for r in researcher if unqualified_articles(r, articles) > 0])
+print_unqualified()
