@@ -6,14 +6,17 @@ This monorepo contains various assignments, exercises, and projects completed du
 ## 👤 About the Author
 **Yuval Mashiah**
 * Full-Stack Software Developer
-* B.Sc. Computer Science Student
+* B.Sc. Computer Science Graduate
 
 ## 📁 Repository Structure
 This repository is organized by course. Each folder represents a different academic course and contains its respective assignments and projects. 
 Each course folder includes its own specific requirements and execution instructions.
 
-* **[Structure of Programming Languages](./Structure%20of%20Programming%20Languages)** - Assignments focusing on programming paradigms and language structures.
-* *(More courses will be added as the semester progresses)*
+* **[Data Science (בינה מלאכותית ומדע הנתונים)](./Data%20Science)**
+* **[Data Security (אבטחת מידע)](./Data%20Security)**
+* **[Functional Programming (תכנות פונקציונלי)](./Functional%20Programming)**
+* **[Structure of Programming Languages (מבנה שפות תוכנה)](./Structure%20of%20Programming%20Languages)**
+* **[Database Systems (בסיסי נתונים)](./Database%20Systems)**
 
 ## 🛠️ Environment Setup
 To keep the repository clean, the main virtual environment (`venv`) and cached files are intentionally ignored via `.gitignore`. 
